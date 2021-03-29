@@ -19,7 +19,7 @@ body {
 
 
 #Head {
-    margin-left: 40% ;
+    margin: 0 auto; 
     max-width: 300px;
     display: block;
 } /*The logo that you see in the top of the page, shows it to center with the page*/
